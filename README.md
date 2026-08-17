@@ -1,6 +1,6 @@
-# VacayPlanner – Travel Planning Web Application
+# TripIt – Travel Planning Web Application
 
-VacayPlanner is a responsive frontend web application designed to help users explore destinations, discover key travel information, and generate simple itineraries. The project demonstrates strong fundamentals in JavaScript, API integration, and responsive UI design.
+TripIt is a responsive frontend web application designed to help users explore destinations, discover key travel information, and generate simple itineraries. The project demonstrates strong fundamentals in JavaScript, API integration, and responsive UI design.
 
 ---
 
